@@ -1,4 +1,4 @@
-## Olá, eu sou o Júlio César Bento
+## Olá, eu sou o Júlio César
 <div>
     <a href="https://github.com/JulioCB68"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCB68&theme=radical&show_icons=true" />
