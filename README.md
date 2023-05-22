@@ -1,5 +1,5 @@
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-<br />
+<!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<br /> -->
 
 ## Tecnologias que eu uso no meu dia a dia
 
