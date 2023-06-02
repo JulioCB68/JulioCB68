@@ -1,6 +1,7 @@
 <!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <br /> -->
 <div align='center'>
+    
 ## Tecnologias que eu uso no meu dia a dia
     
 <div>
