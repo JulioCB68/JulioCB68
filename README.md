@@ -3,6 +3,8 @@
 
 ## Tecnologias que eu uso no meu dia a dia
 
+<div align='center'>
+    
 <div>
     <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,6 +51,7 @@
 <div align='center'>
     <a height="150em" href="http://www.github.com/JulioCB68">
     <img src="https://github-profile-trophy.vercel.app/?username=JulioCB68&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" /></a>
+</div>
 </div>
 <!-- <br />
 <a href="https://www.linkedin.com/in/jc-bento2305/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
