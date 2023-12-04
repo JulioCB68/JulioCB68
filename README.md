@@ -1,11 +1,11 @@
 <!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <br /> -->
-<div align='center'>
 
 ## Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. HTML, CSS e JavaScript são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀"
 
 Sinta-se à vontade para personalizar ou adicionar informações específicas sobre suas habilidades ou projetos que gostaria de destacar!
     
+<div align='center'>
 ## Tecnologias que eu uso no meu dia a dia
     
 <br />
