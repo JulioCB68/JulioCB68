@@ -2,8 +2,6 @@
 <br /> -->
 
 ## Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. HTML, CSS e JavaScript são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀"
-
-Sinta-se à vontade para personalizar ou adicionar informações específicas sobre suas habilidades ou projetos que gostaria de destacar!
     
 <div align='center'>
     
