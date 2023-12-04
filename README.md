@@ -30,28 +30,6 @@
     <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="Material UI" height="30" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </div>
-<br />
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JulioCB68&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br /> -->
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioCB68&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioCB68&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
- <br />
- 
-<div align='center'>
-    <a height="150em" href="http://www.github.com/JulioCB68">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCB68&stroke=bd93f9&background=171717&ring=3382ed&fire=3382ed&currStreakNum=bd93f9&currStreakLabel=3382ed&sideNums=bd93f9&sideLabels=bd93f9&dates=bd93f9&hide_border=true" /></a>
-</div>
-    
-<br />
-    
-<div align='center'>
-    <a height="150em" href="http://www.github.com/JulioCB68">
-    <img src="https://github-profile-trophy.vercel.app/?username=JulioCB68&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" /></a>
-</div>
 </div>
 <!-- <br />
 <a href="https://www.linkedin.com/in/jc-bento2305/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
