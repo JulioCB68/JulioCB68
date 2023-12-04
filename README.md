@@ -6,6 +6,7 @@
 Sinta-se à vontade para personalizar ou adicionar informações específicas sobre suas habilidades ou projetos que gostaria de destacar!
     
 <div align='center'>
+    
 ## Tecnologias que eu uso no meu dia a dia
     
 <br />
