@@ -1,14 +1,10 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <br />
-
 👋 Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. Nextjs e Reactjs são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀
-    
 <div>
-    
 Tecnologias que eu uso no meu dia a dia
-    
 <br />
-<div style="display: flex">
+<div>
     <img alt="Next.js" height="30" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />       
     <img alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
