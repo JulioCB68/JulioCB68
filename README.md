@@ -3,7 +3,7 @@
 
 ## 👋 Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. Reactjs e Nextjs são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀
     
-<div align='center'>
+<div>
     
 ## Tecnologias que eu uso no meu dia a dia
     
