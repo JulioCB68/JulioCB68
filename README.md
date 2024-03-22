@@ -1,5 +1,5 @@
-<!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-<br /> -->
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<br />
 
 ## 👋 Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. Reactjs e Nextjs são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀
     
