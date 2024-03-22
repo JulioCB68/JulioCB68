@@ -1,5 +1,6 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 <br />
+<div style="text-align: left;">
 👋 Desenvolvedor Front-End apaixonado por criar experiências incríveis na web. Nextjs e Reactjs são minhas ferramentas favoritas. Sempre em busca de aprender e colaborar em projetos inovadores. 🚀
 <div>
 Tecnologias que eu uso no meu dia a dia
@@ -16,6 +17,7 @@ Tecnologias que eu uso no meu dia a dia
     <img alt="Styled Components" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img alt="Saas" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <br />
+</div>
 </div>
 </div>
 <!-- <br />
