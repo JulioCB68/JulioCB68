@@ -8,7 +8,7 @@
     
 Tecnologias que eu uso no meu dia a dia
 <br />
-<div>
+<div style="display: flex">
     <img alt="Next.js" height="30" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
