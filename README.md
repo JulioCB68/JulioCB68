@@ -8,6 +8,7 @@
     
 Tecnologias que eu uso no meu dia a dia
 <br />
+
 <div style="display: inline-block">
     <img alt="Next.js" height="30" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,7 +20,6 @@ Tecnologias que eu uso no meu dia a dia
     <img alt="Tailwind" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img alt="Styled Components" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img alt="Saas" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<br />
 </div>
 </div>
 <!-- <br />
